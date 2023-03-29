@@ -47,10 +47,16 @@ h3 {
     left: 425px;
     top: 65px;
 }
+.skills h2 {
+    padding-top: 20px;
+}
+.profile {
+    padding-bottom: 20px;
+}
 .bottom-cloud {
     position: absolute;
-    right: 500px;
-    bottom: 350px;
+    right: 425px;
+    bottom: 25px;
 }
 
 .skill-row {
