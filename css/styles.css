@@ -1,3 +1,6 @@
+* {
+    margin: 0;
+}
 body {
     margin: 0;
     text-align: center;
@@ -35,6 +38,7 @@ h3 {
 
 .bottom-container {
     background-color: #F6E1C3;
+    padding-top: 20px;
 }
 
 
@@ -54,24 +58,32 @@ h3 {
     margin: 50px auto 50px auto;
     text-align: left;
     padding-top: 10px;
+    padding-bottom: 130px;
 }
 .contact-me {
-    padding: 0px;
+    padding: 20px;
 }
+.contact-me h2 {
+    margin-bottom: 15px;
+
+}
+
 .gojo {
     width: 25%;
 }
 
 .luffy {
-    width: 250px;
+    width: 200px;
     float: left;
     margin-right: 20px;
+    margin-top: -25px;
 }
 
 .zoro {
-    width: 385px;
+    width: 300px;
     float: right;
-
+    margin-left: 20px;
+    margin-top: -60px;
 }
 
 .footer-link {
