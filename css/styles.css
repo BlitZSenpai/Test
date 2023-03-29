@@ -1,83 +1,82 @@
 body {
-    margin: 0;
-    text-align: center;
-    font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
 }
 h2 {
-    font-size: 1.5625rem;
-    font-family: sans-serif;
-    margin: 0 auto auto auto;
-    color: #66BFBF;
-    font-weight: normal;
+  font-size: 1.5625rem;
+  font-family: sans-serif;
+  margin: 0 auto auto auto;
+  color: #66bfbf;
+  font-weight: normal;
 }
 
 h1 {
-    font-size: 562.5%;
-    margin: 50px auto 0 auto;
-    font-family: 'Sacramento', cursive;
-    color: #66BFBF;
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
 }
 
-
 h3 {
-    color: #11999E;
+  color: #11999e;
 }
 
 .top-container {
-    background-color: #C9EEFF;
-    position: relative;
-    padding-top: 50px;
+  background-color: #c9eeff;
+  position: relative;
+  padding-top: 50px;
 }
 
 .middle-container {
-    background-color: #F6E1C3;
+  background-color: #f6e1c3;
 }
 
 .bottom-container {
-    background-color: #F6E1C3;
+  background-color: #f6e1c3;
 }
-
 
 .top-cloud {
-    position: absolute;
-    left: 425px;
-    top: 65px;
+  position: absolute;
+  left: 425px;
+  top: 65px;
 }
 .bottom-cloud {
-    position: absolute;
-    right: 500px;
-    bottom: 350px;
+  position: absolute;
+  right: 500px;
+  bottom: 350px;
 }
 
 .skill-row {
-    width: 50%;
-    margin: 50px auto 50px auto;
-    text-align: left;
-    padding-top: 10px;
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 130px;
 }
 .contact-me {
-    padding: 0px;
+  padding: 0px;
 }
 .gojo {
-    width: 25%;
+  width: 25%;
 }
 
 .luffy {
-    width: 250px;
-    float: left;
-    margin-right: 20px;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+  margin-top: -25px;
 }
 
 .zoro {
-    width: 385px;
-    float: right;
-
+  width: 275px;
+  float: right;
 }
 
 .footer-link {
-    color: #11999E;
+  color: #11999e;
 }
 
 .mail {
-    margin: 20px;
+  margin: 20px;
 }
